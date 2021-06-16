@@ -1,0 +1,28 @@
+#title{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: yellow;
+}
+#messaggi_a_schermo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: orange;
+}
+body{
+    background-image: url('sfondo.jpg');
+}
+
+.button{
+    background-color: #4CAF50;
+    border: 1;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}

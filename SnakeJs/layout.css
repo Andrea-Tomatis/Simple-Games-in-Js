@@ -1,0 +1,36 @@
+#title{
+    text-align: center;
+    background-color: yellowgreen;
+    color: olivedrab;
+}
+
+#rigioca{
+    text-align: center;
+    font-size: 25px;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: yellowgreen;
+    
+}
+#vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 41%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+#stampaMessaggi{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
